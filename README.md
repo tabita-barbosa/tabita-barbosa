@@ -1,7 +1,7 @@
 ### Hell0 W0rld
 
-## Desenvolvedora iOS
+## Desenvolvedora iOS no Itaú
 
-⚒️ 👩🏽‍💻 JavaScript, Java, Swift
+👩🏽‍💻  Swift, Java, JavaScript
 
-Participei do bootcamp da {reprograma} - turma 9 - em Front-End e do bootcamp do Itaú + ZUP em Back-End, e hoje estudo e codo em Swift. Também atuo como monitora no minas programam e na {reprograma}. 
+Participei do bootcamp da {reprograma} - turma 9 - de Front-End e do bootcamp do Itaú + ZUP em Back-End, e hoje estudo e codo em Swift. Também atuo como monitora no minas programam e na {reprograma}. 
