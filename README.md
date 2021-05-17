@@ -1,6 +1,6 @@
 ## Engenheira de Software
 
-👩🏽‍💻  Swift, Java, JavaScript
+👩🏽‍💻    Swift, Java, JavaScript
 
 Sou ex aluna da {reprograma} - turma 9 - de Front-End e do bootcamp do Itaú + ZUP de Back-End, e hoje estudo e trabalho com Swift (e as vezes Objective-C). Também atuo como monitora no minas programam e na {reprograma}. 
 Aqui você pode encontrar alguns projetos pessoais e de estudo nas linguaguens citadas acima.
