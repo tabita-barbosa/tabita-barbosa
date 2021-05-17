@@ -1,8 +1,8 @@
-# Olá! Sou Desenvolvedora iOS no Itaú
+# Olá! Sou Desenvolvedora iOS
 
 👩🏽‍💻  Swift, Java, JavaScript
 
-Participei do bootcamp da {reprograma} - turma 9 - de Front-End e do bootcamp do Itaú + ZUP em Back-End, e hoje estudo e codo em Swift. Também atuo como monitora no minas programam e na {reprograma}. 
+Sou ex aluna da {reprograma} - turma 9 - de Front-End e do bootcamp do Itaú + ZUP de Back-End, e hoje estudo e trabalho com Swift (e as vezes Objective-C). Também atuo como monitora no minas programam e na {reprograma}. 
 Aqui você pode encontrar alguns projetos pessoais e de estudo nas linguaguens citadas acima.
 
 Me encontre em:
