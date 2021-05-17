@@ -12,6 +12,7 @@ Me encontre em:
 <a href="https://instagram.com/mari4_bunit4" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/1400/1400829.png?token=exp=1621218102~hmac=705e75b87d3e7f7cb233ca1ad28d08af" alt="@mari4_bunit4" height="40" width="40" /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabita-barbosa&theme=radical&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_title=true)](https://github.com/tabita-barbosa/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabita-barbosa&theme=radical&show_icons=true&count_private=true&hide_title=true)](https://github.com/tabita-barbosa/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
