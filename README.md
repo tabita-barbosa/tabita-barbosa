@@ -12,4 +12,5 @@ Me encontre em:
 <a href="https://instagram.com/@mari4_bunit4" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/792/PNG/512/INSTAGRAM_icon-icons.com_65535.png" alt="@mari4_bunit4" height="30" width="30" /></a>
 </p>
 
-[(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/tabita-barbosa/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
