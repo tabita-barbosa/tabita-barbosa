@@ -8,6 +8,8 @@ Aqui você pode encontrar alguns projetos pessoais e de estudo nas linguaguens c
 Me encontre em:
 <p align="left" bgcolor="#FFFFFF">
 <a href="https://linkedin.com/in/tabita-barbosa" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/792/PNG/512/LINKEDIN_icon-icons.com_65538.png" alt="tabita-barbosa" height="40" width="40" /></a>
+  <a></a>
 <a href="https://www.behance.net/tabitabarbosa" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/792/PNG/512/BEHANCE_icon-icons.com_65578.png" alt="tabitabarbosa" height="40" width="40" /></a>
+   <a></a>
 <a href="https://instagram.com/@mari4_bunit4" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/792/PNG/512/INSTAGRAM_icon-icons.com_65535.png" alt="@mari4_bunit4" height="40" width="40" /></a>
 </p>
