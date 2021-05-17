@@ -6,7 +6,7 @@ Participei do bootcamp da {reprograma} - turma 9 - de Front-End e do bootcamp do
 Aqui você pode encontrar alguns projetos pessoais e de estudo nas linguaguens citadas acima.
 
 Me encontre em:
-<p align="left">
+<p align="left" bgcolor="#FFFFFF">
 <a href="https://twitter.com/mari4_bunit4" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3005/PNG/512/twitter_icon_188142.png" alt="mari4_bunit4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tabita-barbosa" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3005/PNG/512/linkedin_icon_188211.png" alt="tabita-barbosa" height="30" width="40" /></a>
 <a href="https://instagram.com/@mari4_bunit4" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3005/PNG/512/instagram_icon_188214.png" alt="@mari4_bunit4" height="30" width="40" /></a>
