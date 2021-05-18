@@ -2,7 +2,7 @@
 
 👩🏽‍💻    Swift, Java, JavaScript
 
-Sou ex aluna da {reprograma} - turma 9 - de Front-End e do bootcamp do Itaú + ZUP de Back-End, e hoje estudo e trabalho com Swift (e as vezes Objective-C). Também atuo como monitora no minas programam e na {reprograma}. 
+Sou ex aluna da {reprograma} T9 de Front-End e do bootcamp do Itaú + ZUP de Back-End, e hoje estudo e trabalho com Swift (e as vezes Objective-C). Também atuo como monitora no minas programam e na {reprograma}. 
 Aqui você pode encontrar alguns projetos pessoais e de estudo nas linguaguens citadas acima.
 
 Me encontre em:
@@ -15,4 +15,3 @@ Me encontre em:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabita-barbosa&theme=radical&show_icons=true&count_private=true&hide_title=true)](https://github.com/tabita-barbosa/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
