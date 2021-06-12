@@ -6,12 +6,16 @@ Sou ex aluna da {reprograma} T9 de Front-End e do bootcamp do Itaú + ZUP de Bac
 Aqui você pode encontrar alguns projetos pessoais e de estudo nas linguaguens citadas acima.
 
 Me encontre em:
+
 <span align="left">
 <a href="https://linkedin.com/in/tabita-barbosa" rel="nofollow">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:tabita.barbosa8@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.behance.net/tabitabarbosa">
+<img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
 </a>
 </span>
 
