@@ -16,6 +16,6 @@ Me encontre em:
 </a>
 </span>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-nobrega&theme=radical&show_icons=true&count_private=true&hide_title=true)](https://github.com/guilherme-nobrega/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-nobrega&theme=dark&show_icons=true&count_private=true&hide_title=true)](https://github.com/guilherme-nobrega/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
