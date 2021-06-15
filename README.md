@@ -12,13 +12,10 @@ Me encontre em:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:tabita.barbosa8@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.behance.net/tabitabarbosa" target="_blank">
-<img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=outlook&logoColor=white">
 </a>
 </span>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabita-barbosa&theme=radical&show_icons=true&count_private=true&hide_title=true)](https://github.com/tabita-barbosa/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-nobrega&theme=radical&show_icons=true&count_private=true&hide_title=true)](https://github.com/guilherme-nobrega/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
