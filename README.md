@@ -3,7 +3,7 @@
 👩🏽‍💻    Swift, Objective-C, Java, JavaScript
 
 Sou ex aluna da {reprograma} T9 de Front-End e do bootcamp do Itaú + ZUP de Back-End. Hoje estudo e trabalho com desenvolvimento mobile nativo iOS (Swift e Objective-C). Também participo como monitora e professora nos projetos minas programam e {reprograma}. 
-Aqui você pode encontrar alguns projetos pessoais e de estudo nas linguaguens citadas acima.
+Aqui você pode encontrar alguns projetos pessoais de estudo.
 
 Me encontre em:
 
