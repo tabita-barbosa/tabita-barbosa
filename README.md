@@ -26,5 +26,4 @@ Me encontre em: | Find me in:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabita-barbosa&show_icons=true&theme=dracula&show_icons=true&count_private=true&hide_title=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabita-barbosa&layout=compact)](https://github.com/tabita-barbosa/github-readme-stats)
-
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabita-barbosa&layout=compact)](https://github.com/tabita-barbosa/github-readme-stats)]
