@@ -3,12 +3,11 @@
 👩🏽‍💻    Swift, Objective-C, JavaScript, HTML, CSS, Java
 
 versão em portugês:
-Sou ex aluna do minas programa, da {reprograma} Front-End e do bootcamp do Itaú + ZUP de Back-End. Hoje estudo e trabalho com desenvolvimento mobile nativo iOS (Swift e Objective-C). Também participo como monitora e professora nos projetos minas programam e {reprograma}, os dois projetos tem o objetivo de aproximar meninas e mulheres da área de TI e contribuir para a redução do gap feminino, negro principalmente, nessas áreas.
+Sou ex aluna do minas programa, da {reprograma} Front-End e do bootcamp do Itaú + ZUP de Back-End. Hoje estudo e trabalho com desenvolvimento mobile nativo iOS (Swift e Objective-C). Também participo como monitora e professora nos projetos minas programam e {reprograma}.
 Aqui você pode encontrar alguns projetos pessoais de estudo e contribuições a projetos open source. 
 
 english version:
-I become a developer by participating in two bootcamps - minas programam and {reprograma} - both focused mostly in front-end. Today I'm also a teacher and class monitor in these bootcamps. They are formed by a group of women that work to empower more women, specially of color and from lower classes, who identify with IT area, to work with it and reduce the gap of these groups in the STEAM area. 
-I'm currently working with iOS native technologies - Swift and Obj-C at Itaú Unibanco.
+I become a developer by participating in two bootcamps - minas programam and {reprograma} - both focused mostly in front-end. Today I'm also a teacher and class monitor in these bootcamps. I'm currently working with iOS native technologies - Swift and Obj-C at Itaú Unibanco.
 Here you will find some study projects and contributions to open source projects.
 
 Me encontre em: | Find me in: 
@@ -25,7 +24,7 @@ Me encontre em: | Find me in:
 </a>
 </span>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabita-barbosa&theme=radical&show_icons=true&count_private=true&hide_title=true)](https://github.com/tabita-barbosa/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabita-barbosa&show_icons=true&theme=dracula&show_icons=true&count_private=true&hide_title=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabita-barbosa&layout=compact)](https://github.com/tabita-barbosa/github-readme-stats)
 
