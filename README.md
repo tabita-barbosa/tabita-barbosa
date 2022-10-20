@@ -1,16 +1,22 @@
-## Engenheira de Software | Software Engineer
+##                                                                Hi there 👋
 
-👩🏽‍💻    Swift, Objective-C, JavaScript, HTML, CSS, Java
+👩🏽‍💻 Swift, Objective-C, JavaScript, HTML, CSS, Java
 
-versão em portugês:
-Sou ex aluna do minas programa, da {reprograma} e do bootcamp do Itaú + ZUP. Estudo e trabalho com desenvolvimento mobile nativo iOS (Swift e Objective-C). Também participo como monitora e professora nos projetos minas programam e {reprograma}.
-Aqui você pode encontrar alguns projetos pessoais de estudo e contribuições a projetos open source. 
+sobre mim<br />
+😄 pronomes: ela/dela <br />
+✨ sou ex professora de geografia<br />
+👩🏽‍💻 trabalho com desenvolvimento iOS <br />
+🔭 contribuo em projeto de formação de mulheres e meninas em TI - {reprograma} e minas programam<br />
+💬 sou apaixonada por metrópoles - a geográfa permaneceu! <br />
 
-english version:
-I become a developer by participating in two bootcamps - minas programam and {reprograma} - both focused mostly in front-end. Today I'm also a teacher and class monitor in these bootcamps. I'm currently working with iOS native technologies - Swift and Obj-C.
-Here you will find some study projects and contributions to open source projects.
+about me<br />
+😄 pronouns: she/her<br />
+✨ I used to be a geography teacher, before being a dev<br />
+👩🏽‍💻 I work with iOS development<br />
+🔭 I participate in two projects focused in bring more women to IT - {reprograma} and minas programam<br />
+💬 I'm passionate for metropolises - the geography teacher still alive!<br />
 
-Me encontre | Find me
+### me encontre | find me
 
 <span align="left">
 <a href="https://linkedin.com/in/tabita-barbosa" rel="nofollow" target="_blank">
