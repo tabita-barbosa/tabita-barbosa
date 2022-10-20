@@ -3,14 +3,14 @@
 👩🏽‍💻    Swift, Objective-C, JavaScript, HTML, CSS, Java
 
 versão em portugês:
-Sou ex aluna do minas programa, da {reprograma} Front-End e do bootcamp do Itaú + ZUP de Back-End. Hoje estudo e trabalho com desenvolvimento mobile nativo iOS (Swift e Objective-C). Também participo como monitora e professora nos projetos minas programam e {reprograma}.
+Sou ex aluna do minas programa, da {reprograma} e do bootcamp do Itaú + ZUP. Estudo e trabalho com desenvolvimento mobile nativo iOS (Swift e Objective-C). Também participo como monitora e professora nos projetos minas programam e {reprograma}.
 Aqui você pode encontrar alguns projetos pessoais de estudo e contribuições a projetos open source. 
 
 english version:
-I become a developer by participating in two bootcamps - minas programam and {reprograma} - both focused mostly in front-end. Today I'm also a teacher and class monitor in these bootcamps. I'm currently working with iOS native technologies - Swift and Obj-C at Itaú Unibanco.
+I become a developer by participating in two bootcamps - minas programam and {reprograma} - both focused mostly in front-end. Today I'm also a teacher and class monitor in these bootcamps. I'm currently working with iOS native technologies - Swift and Obj-C.
 Here you will find some study projects and contributions to open source projects.
 
-Me encontre em: | Find me in: 
+Me encontre | Find me
 
 <span align="left">
 <a href="https://linkedin.com/in/tabita-barbosa" rel="nofollow" target="_blank">
@@ -27,3 +27,5 @@ Me encontre em: | Find me in:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabita-barbosa&show_icons=true&theme=dracula&show_icons=true&count_private=true&hide_title=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabita-barbosa&layout=compact)](https://github.com/tabita-barbosa/github-readme-stats) -->
+
+[![@tabitabarbosa's Holopin board](https://holopin.me/tabitabarbosa)](https://holopin.io/@tabitabarbosa)
