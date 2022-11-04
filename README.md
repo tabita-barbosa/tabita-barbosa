@@ -14,7 +14,6 @@ about me<br />
 👩🏽‍💻 I work with iOS development<br />
 🔭 I participate in two projects focused in bring more women to IT - {reprograma} and minas programam<br />
 
-### me encontre | find me
 
 <span align="left">
 <a href="https://linkedin.com/in/tabita-barbosa" rel="nofollow" target="_blank">
