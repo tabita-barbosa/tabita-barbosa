@@ -4,15 +4,15 @@
 
 sobre mim<br />
 😄 pronomes: ela/dela <br />
-✨ sou ex professora de geografia<br />
+✨ sou ex professora de geografia e pesquisadora da educação<br />
 👩🏽‍💻 trabalho com desenvolvimento iOS <br />
-🔭 contribuo em projeto de formação de mulheres e meninas em TI - {reprograma} e minas programam<br />
+🔭 contribuo em projetos de formação de mulheres e meninas em TI - {reprograma} e minas programam<br />
 
 about me<br />
 😄 pronouns: she/her<br />
 ✨ I used to be a geography teacher, before being a dev<br />
 👩🏽‍💻 I work with iOS development<br />
-🔭 I participate in two projects focused in bring more women to IT - {reprograma} and minas programam<br />
+🔭 I contribute to two projects focused in bring more women to IT - {reprograma} and minas programam<br />
 
 
 <span align="left">
