@@ -1,6 +1,6 @@
 ##                                                                Hi there 👋
 
-👩🏽‍💻 Swift, Angular, React, JavaScript, HTML, CSS, Objective-C, Java
+👩🏽‍💻 Swift, TypeScript, Angular, React, JavaScript, Objective-C
 
 sobre mim<br />
 😄 pronomes: ela/dela <br />
