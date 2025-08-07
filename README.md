@@ -1,17 +1,17 @@
 ##                                                                Hi there 👋
 
-👩🏽‍💻 Swift, Objective-C, JavaScript, HTML, CSS, Java
+👩🏽‍💻 Swift, Angular, React, JavaScript, HTML, CSS, Objective-C, Java
 
 sobre mim<br />
 😄 pronomes: ela/dela <br />
 ✨ fui professora de geografia e pesquisadora da educação<br />
-👩🏽‍💻 trabalho com desenvolvimento iOS <br />
+👩🏽‍💻 trabalho com desenvolvimento iOS e Angular <br />
 🔭 contribuo em projetos de formação de mulheres e meninas em TI - {reprograma} e minas programam<br />
 
 about me<br />
 😄 pronouns: she/her<br />
 ✨ I used to be a geography teacher, before being a developer <br />
-👩🏽‍💻 I work with iOS development<br />
+👩🏽‍💻 I work with iOS and Angular development<br />
 🔭 I contribute to two projects focused in bring more women to IT - {reprograma} and minas programam<br />
 
 
